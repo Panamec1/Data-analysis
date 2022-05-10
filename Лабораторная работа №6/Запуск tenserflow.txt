@@ -1,0 +1,5 @@
+tensorboard --logdir runs
+
+
+
+https://towardsdatascience.com/taking-the-tensorboard-embedding-projector-to-the-next-level-bde53deb6bb7

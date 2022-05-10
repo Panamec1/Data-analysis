@@ -1,0 +1,3 @@
+УДАЛИ tenserflow -> много весит
+УДАЛИ tensorboard
+УДАЛИ C:\Users\User/.cache\torch\hub\checkpoints\alexnet-owt-7be5be79

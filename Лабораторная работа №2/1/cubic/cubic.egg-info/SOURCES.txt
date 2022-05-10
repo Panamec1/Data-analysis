@@ -1,0 +1,7 @@
+setup.py
+cubic/__init__.py
+cubic/monotonecubic.py
+cubic.egg-info/PKG-INFO
+cubic.egg-info/SOURCES.txt
+cubic.egg-info/dependency_links.txt
+cubic.egg-info/top_level.txt
